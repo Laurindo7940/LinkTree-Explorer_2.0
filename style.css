@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-html {
+body {
   --bg-color: #edf2ff;
   --text-color: #00082f;
   --primary-color: #4263eb;
