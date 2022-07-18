@@ -108,6 +108,11 @@ ul li a:hover {
   background-color: var(--primary-color-hover);
 }
 
+ul li a i {
+  margin-right: 5px;
+}
+
+
 footer {
   font-weight: 500;
   font-size: 12px;
